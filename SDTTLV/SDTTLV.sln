@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDTTLV", "SDTTLV\SDTTLV.vcxproj", "{C14D6EAE-855D-43B7-974E-C9D59B1F970A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{04A1614A-FF36-47C5-80B8-997FAA31067F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C14D6EAE-855D-43B7-974E-C9D59B1F970A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C14D6EAE-855D-43B7-974E-C9D59B1F970A}.Debug|Win32.Build.0 = Debug|Win32
+		{C14D6EAE-855D-43B7-974E-C9D59B1F970A}.Release|Win32.ActiveCfg = Release|Win32
+		{C14D6EAE-855D-43B7-974E-C9D59B1F970A}.Release|Win32.Build.0 = Release|Win32
+		{04A1614A-FF36-47C5-80B8-997FAA31067F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{04A1614A-FF36-47C5-80B8-997FAA31067F}.Debug|Win32.Build.0 = Debug|Win32
+		{04A1614A-FF36-47C5-80B8-997FAA31067F}.Release|Win32.ActiveCfg = Release|Win32
+		{04A1614A-FF36-47C5-80B8-997FAA31067F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
